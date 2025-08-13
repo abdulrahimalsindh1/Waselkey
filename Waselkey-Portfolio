@@ -1298,16 +1298,14 @@
         </div>
       </div>
       
-      <div class="footer-bottom animate-in" style="transition-delay: 0.5s;">
-        <p>Copyright © Worldke All Rights Reserved</p>
+      <div class="footer-bottom animate-in" style="transition-delay: 0.5s;" >
+        <p>Copyright © Waselkey All Rights Reserved</p>
         <div style="margin-top: 10px;">
-          <a href="#home" style="color: rgba(255,255,255,0.7); margin-right: 15px;">Home</a>
-          <a href="#about" style="color: rgba(255,255,255,0.7); margin-right: 15px;">About</a>
-          <a href="#services" style="color: rgba(255,255,255,0.7); margin-right: 15px;">Services</a>
+          <a href="#home" style="color: rgba(255,255,255,0.7); margin-right: 15px;"></br>Home</a>
         </div>
       </div>
     </div>
-<p ali>Copyright © Worldke All Rights Reserved</p>
+
   </footer>
 
   <script>
